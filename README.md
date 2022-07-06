@@ -20,6 +20,11 @@ RST	–	D9
 G0	–	D2
 G1	–	D3
 G2	–	D4
+REFERENCE VEDIO HELPED FOR THIS COMMUNICATION SETUP 
+1) https://www.youtube.com/watch?v=0uzGRoZNki0&feature=youtu.be
+
+https://lora.readthedocs.io/en/latest/
+
 
 OUTPUT IMAGES 
 ![image](https://user-images.githubusercontent.com/93335682/177617829-28525382-98d3-469a-b97a-a0d762977982.png)
