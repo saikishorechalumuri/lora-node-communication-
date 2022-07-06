@@ -66,7 +66,7 @@ void os_getDevEui (u1_t* buf) { memcpy_P(buf, DEVEUI, 8);}
 static const u1_t PROGMEM APPKEY[16] = { 0xC1,0x16,0xCD,0xEA,0x23,0x8C,0x7D,0xD6,0x82,0x41,0x58,0x5A,0xF5,0xE9,0x61,0xA1 };
 void os_getDevKey (u1_t* buf) {  memcpy_P(buf, APPKEY, 16);}
 
-static uint8_t mydata[] = "Hello, world!";// hello world will be transmitted every 60 seconds 
+static uint8_t mydata[] = "DIGITAL KITCHENER INOVATIONS !";// hello world will be transmitted every 60 seconds 
 static osjob_t sendjob;
 
 // Schedule TX every this many seconds (might become longer due to duty
